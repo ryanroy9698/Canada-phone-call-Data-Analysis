@@ -58,14 +58,3 @@ Summarizes key findings from the analysis, such as unusual calling patterns, cha
 ## Plots and Visualizations
 
 Provides visualizations to support the analysis, such as bar charts and line plots to illustrate call frequency, duration, and monthly patterns.
-
-## Usage
-
-To use the code in this repository, follow the instructions provided in each project's section.
-
-## Installation
-
-Clone the repository to your local machine using:
-
-```bash
-git clone https://github.com/your-username/your-repository.git
